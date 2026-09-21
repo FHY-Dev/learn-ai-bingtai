@@ -29,4 +29,4 @@
 |晚上|肝原神|3h|不错|
 |睡觉前|学习|10min|一般|
 ## 学习感悟
-[备战7.1](https://ys.mihoyo.com/cloud/#/)
+[备战 7.1](https://ys.mihoyo.com/cloud/#/)
