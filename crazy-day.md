@@ -34,7 +34,7 @@
 
 ## 练习代码片段
 
-    print("Hello world!)
+    print("Hello world!")
 
 ---
 
@@ -48,4 +48,4 @@
 |睡觉前|学习|10min|一般|
 
 ## 学习感悟
-[备战 7.1](https://ys.mihoyo.com/cloud/#/)
+[启动](https://ys.mihoyo.com/cloud/#/)
